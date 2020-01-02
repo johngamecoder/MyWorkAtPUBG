@@ -1,23 +1,24 @@
 # JohnGameCoder's Works at PUBG Corp.
 
 This Repository is to shortly descrive about my Works at PUBG. 
+Entering the company in September 2018. Joined PUBG LITE team as Contents Engineer.
+
 
 ## PUBG LITE
 [![Video Label](http://img.youtube.com/vi/vl4CuBw85f8/0.jpg)](https://youtu.be/vl4CuBw85f8)
 
 
-## List
+## List of Contents JohnGameCoder had developed
 
 * Emote
 * Interaction
-* 치트기 기획업무(자기장, ItemSpawn, VehicleSpawn)
+* Development Cheats 
+(Cheats that is needed while developing games, such as  Item Spawning, Vehicle Spawning, Bluezone timer)
 * NetworkInfoWidget
 * TacticalMarker
-* MissionList [p]
-* Skin Emote
 * LogPlayerKill
-* 실시간 인게임 미션 리스트
+* Realtime Ingame Mission List [p]
 * JerryCan
-* KillCam
 * ColorBlind
+* KillCam
 * Replay
