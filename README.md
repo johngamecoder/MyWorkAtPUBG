@@ -1,5 +1,5 @@
 # JohnGameCoder's Works at PUBG Corp.
-
+This Repository is to shortly descrive about my Works at PUBG. 
 ##List
 * Emote
 * Interaction
