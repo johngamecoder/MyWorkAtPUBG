@@ -13,7 +13,7 @@ This Repository is to shortly describe about my Works at PUBG.
 
 ![Emote](https://user-images.githubusercontent.com/35551084/71655966-b5f2bc00-2d7c-11ea-8d13-852b2daf54b1.jpg)
 
-* Interaction
+* Interacting with Objects (Doors, Items, Vehicles, Parachute, Rescuing other players etc)
 
 ![Interaction](https://user-images.githubusercontent.com/35551084/71656751-f9025e80-2d7f-11ea-860d-b0b5b328c1ce.jpg)
 
