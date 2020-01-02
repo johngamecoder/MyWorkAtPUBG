@@ -1,6 +1,9 @@
 # JohnGameCoder's Works at PUBG Corp.
+
 This Repository is to shortly descrive about my Works at PUBG. 
+
 ##List
+
 * Emote
 * Interaction
 * 치트기 기획업무(자기장, ItemSpawn, VehicleSpawn)
