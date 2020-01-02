@@ -21,7 +21,7 @@ This Repository is to shortly describe about my Works at PUBG.
 ![NetworkInfoWidget](https://user-images.githubusercontent.com/35551084/71655537-98245780-2d7a-11ea-8f77-f16c886af218.JPG)
 * TacticalMarker
 
-![Tactical Marker](https://user-images.githubusercontent.com/35551084/71655610-dcaff300-2d7a-11ea-835a-f7db9998c64e.JPG)
+![Tactical Marker](https://user-images.githubusercontent.com/35551084/71655659-1aad1700-2d7b-11ea-9dcd-6ca92152d396.JPG)
 [![Video Label](http://img.youtube.com/vi/wUi2X_2ozvM/0.jpg)](https://youtu.be/wUi2X_2ozvM)
 * LogPlayerKill
 
