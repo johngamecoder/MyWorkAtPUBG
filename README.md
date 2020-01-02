@@ -32,6 +32,4 @@ This Repository is to shortly descrive about my Works at PUBG.
 
 * ColorBlind
 
-* KillCam
-
-* Replay
+* KillCam / Replay
