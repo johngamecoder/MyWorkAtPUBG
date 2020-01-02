@@ -9,7 +9,7 @@ This Repository is to shortly describe about my Works at PUBG.
 
 ## List of Contents JohnGameCoder had developed (Time Based)
 
-* Emote
+* Emote Animations
 
 ![Emote](https://user-images.githubusercontent.com/35551084/71655966-b5f2bc00-2d7c-11ea-8d13-852b2daf54b1.jpg)
 
@@ -20,13 +20,15 @@ This Repository is to shortly describe about my Works at PUBG.
 * Development Cheats 
 (Cheats that is needed while developing games, such as  Item Spawning, Vehicle Spawning, Bluezone timer)
 
-* NetworkInfoWidget
+* Displaying Network Infomations (Ping, Packet loss)
 
 ![NetworkInfoWidget](https://user-images.githubusercontent.com/35551084/71655537-98245780-2d7a-11ea-8f77-f16c886af218.JPG)
+
 * TacticalMarker
 
 ![Tactical Marker](https://user-images.githubusercontent.com/35551084/71655659-1aad1700-2d7b-11ea-9dcd-6ca92152d396.JPG)
 [![Video Label](http://img.youtube.com/vi/wUi2X_2ozvM/0.jpg)](https://youtu.be/wUi2X_2ozvM)
+
 * LogPlayerKill
 
 * Realtime Ingame Mission List [p]
