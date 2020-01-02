@@ -15,9 +15,12 @@ This Repository is to shortly descrive about my Works at PUBG.
 (Cheats that is needed while developing games, such as  Item Spawning, Vehicle Spawning, Bluezone timer)
 * NetworkInfoWidget
 * TacticalMarker
+[![Video Label](http://img.youtube.com/vi/wUi2X_2ozvM/0.jpg)](https://youtu.be/wUi2X_2ozvM)
 * LogPlayerKill
 * Realtime Ingame Mission List [p]
-* JerryCan
+* JerryCan Explotion
+[![Video Label](http://img.youtube.com/vi/U8yg96qlk1c/0.jpg)](https://youtu.be/U8yg96qlk1c)
+[![Video Label](http://img.youtube.com/vi/WHcISFdyFGI/0.jpg)](https://youtu.be/WHcISFdyFGI)
 * ColorBlind
 * KillCam
 * Replay
