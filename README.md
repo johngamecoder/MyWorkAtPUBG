@@ -28,6 +28,27 @@ Click the image to watch the video
 
   * Item Automatic Pickup System 
   ![pickup](https://user-images.githubusercontent.com/35551084/163388905-25c51e04-5836-48bb-924f-35cb0531ff25.JPG) <br />
+
+  * Automatic Doors <br />
+  ![Automatic Door](https://user-images.githubusercontent.com/35551084/163410983-2ef27444-9eb5-41d7-8008-180dd3e1513a.JPG)
+
+  * Skin for Helmets & Bags
+  ![Skin System](https://user-images.githubusercontent.com/35551084/163411137-f8f81185-f6ff-43e8-a8f2-19b6cf927e40.JPG)
+
+  * Button Customization
+  ![ButtonCustomize](https://user-images.githubusercontent.com/35551084/163411391-d6a82ae8-dc1b-4477-bd91-a6eae9ebbe02.jpg)
+
+  * Weapon case & Safes <br />
+  ![Weapon Case](https://user-images.githubusercontent.com/35551084/163411601-6dfb9b76-8f18-4640-9c21-f963ff65adae.JPG)
+  ![Safe](https://user-images.githubusercontent.com/35551084/163411635-7fe30105-5b8d-44eb-95f5-96a563cc7312.JPG)
+
+  * Interactable Furnitures
+  ![Interactable Furniture](https://user-images.githubusercontent.com/35551084/163411805-d4ff4f73-1a65-4a28-b9fd-5536abe836fd.JPG)
+
+  * Reporting System (Hack, Cheating, Verbal Abuse, etc)
+  ![ReportUser](https://user-images.githubusercontent.com/35551084/163412370-2075fe35-ceb2-4cc3-a6a7-144ac9a79d87.jpg)
+
+
 <p align="right">(<a href="#top">back to top</a>)</p><br />
 
 ## PUBG LITE
