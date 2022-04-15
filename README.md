@@ -51,6 +51,7 @@
   * Reporting System (Hack, Cheating, Verbal Abuse, etc)
   ![ReportUser](https://user-images.githubusercontent.com/35551084/163412370-2075fe35-ceb2-4cc3-a6a7-144ac9a79d87.jpg)
 
+   * Plus, Many more internal bugs. 
 
 <p align="right">(<a href="#top">back to top</a>)</p><br />
 
@@ -80,11 +81,11 @@ Click the image to watch the video
   * Realtime Ingame Mission List [p]
   ![MissionList2](https://user-images.githubusercontent.com/35551084/71657363-e178a500-2d82-11ea-9a68-fce944a3249a.jpg) <br />
 
-  * JerryCan Explotion
+  * JerryCan Explotion <br />
   [![Video Label](http://img.youtube.com/vi/U8yg96qlk1c/0.jpg)](https://youtu.be/U8yg96qlk1c)
   [![Video Label](http://img.youtube.com/vi/WHcISFdyFGI/0.jpg)](https://youtu.be/WHcISFdyFGI)
 
-  * ColorBlind
+  * Color change for ColorBlind
   ![ColorBlind](https://user-images.githubusercontent.com/35551084/71657148-f9035e00-2d81-11ea-847b-8bfdb56f4f5d.jpg) <br />
 
   * KillCam / Replay <br />
