@@ -18,11 +18,14 @@
 
 
 ## PUBG NEWSTATE Mobile
-  [![Video Label](http://img.youtube.com/vi/htld_r86pfI/0.jpg)](https://youtu.be/htld_r86pfI) [![Video Label](http://img.youtube.com/vi/sJ4GFIVX1z4/0.jpg)](https://youtu.be/sJ4GFIVX1z4) <br />
-Click the image to watch the video
+  [![Video Label](http://img.youtube.com/vi/htld_r86pfI/0.jpg)](https://youtu.be/htld_r86pfI) [![Video Label](http://img.youtube.com/vi/sJ4GFIVX1z4/0.jpg)](https://youtu.be/sJ4GFIVX1z4)
+  <br /> Click the image to watch the video
 <p align="right">(<a href="#top">back to top</a>)</p><br />
 
 ## My Work at NEWSTATE MOBILE
+  * Game Optimizing (Solved game hitching, Widget optimizing, etc)
+  ![Unreal Insights](https://user-images.githubusercontent.com/35551084/163561929-86df78e8-3662-4397-aa9c-8480c17fa783.jpg)
+
   * Tutorial for Beginners
   ![Tutorial](https://user-images.githubusercontent.com/35551084/163388580-93b3fdc2-3bc6-4b56-8341-c83ac28f2061.JPG) <br />
 
